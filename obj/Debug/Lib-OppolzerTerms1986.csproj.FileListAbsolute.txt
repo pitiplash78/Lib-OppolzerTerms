@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\bin\Debug\Lib-OppolzerTerms1986.dll
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\bin\Debug\Lib-OppolzerTerms1986.pdb
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\bin\Debug\Lib-Units.dll
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\bin\Debug\Lib-Units.pdb
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\obj\Debug\Lib-OppolzerTerms1986.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\obj\Debug\OppolzerTerms1986.OppolzerTermsProperties.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\obj\Debug\OppolzerTerms1986.UserControl_OppolzerTermsProperties.resources
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\obj\Debug\Lib-OppolzerTerms1986.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\obj\Debug\Lib-OppolzerTerms1986.dll
+\\vmware-host\Shared Folders\home-andre\VisualStudio_svn\Libraries\Lib-OppolzerTerms\obj\Debug\Lib-OppolzerTerms1986.pdb
